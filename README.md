@@ -1,4 +1,4 @@
-# sql_retail_sales_project1
+# Retail Sales Analysis SQL Project1
 
 # Project Title: Retail Sales Analysis 🛒📈
 
