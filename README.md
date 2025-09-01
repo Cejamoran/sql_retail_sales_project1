@@ -18,7 +18,6 @@ SQL Code
 
 Here is the complete SQL script used for the project, combining data exploration and business analysis queries.
 
-SQL
 -- ===================================
 -- DATA CLEANING & EXPLORATION
 -- ===================================
@@ -64,7 +63,6 @@ SELECT
 FROM retail_sales
 GROUP BY category
 ORDER BY net_sale DESC;
-
 -- 4. Calculate the average age of customers purchasing from the 'Beauty' category.
 SELECT 
     AVG(age) AS average_age
