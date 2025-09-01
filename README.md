@@ -1,6 +1,6 @@
 # Retail Sales Analysis SQL Project1
 
-# Project Title: Retail Sales Analysis 🛒📈
+# Project Title: Retail Sales Analysis
 
 This project is a practical demonstration of essential SQL skills for data analysts. It involves exploring, cleaning, and analyzing a sample retail sales dataset to derive valuable business insights. This repository is ideal for aspiring data professionals who want to build a solid foundation in SQL and showcase their ability to handle real-world data analysis tasks.
 
